@@ -1,4 +1,4 @@
-Test with two accounts:  
+Tests with two accounts:  
 <br/>
 account 1: 0x4cd3400fbb3fA0Fb8Dc3d265ECA079938c3220F0  
 
